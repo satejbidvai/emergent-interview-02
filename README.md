@@ -14,4 +14,11 @@ these 3 functionalities we discussed are working (from my notes):
 I've used Cursor to quickly push the PR to GitHub so I can save time (I have `gh` cli),
 but the code is all written by hand as discussed :)
 
+**Video:**
+
+
+https://github.com/user-attachments/assets/60674f94-c506-4416-be16-a932abf22107
+
+
+
 
